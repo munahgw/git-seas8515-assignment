@@ -1,0 +1,17 @@
+* ebfd112 (HEAD -> main, origin/main, origin/feature/project-structure, origin/HEAD, feature/project-structure) Add directory structure with placeholder files
+* 3e87a04 Initial commit
+\n===== REPOSITORY STRUCTURE =====\n
+.
+./.gitignore
+./data
+./data/.gitkeep
+./docs
+./docs/README.md
+./haile_muna_git_activity.txt
+./notebooks
+./notebooks/example.ipynb
+./README.md
+./src
+./src/__init__.py
+./tests
+./tests/__init__.py
